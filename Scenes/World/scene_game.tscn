@@ -102,6 +102,7 @@ position = Vector2(336, 80)
 
 [node name="Paciente_Mateo" parent="." unique_id=554671768 instance=ExtResource("p_3")]
 position = Vector2(432, 88)
+script = null
 
 [node name="Paciente_Camilo" parent="." unique_id=1562067091 instance=ExtResource("p_4")]
 position = Vector2(640, 88)
